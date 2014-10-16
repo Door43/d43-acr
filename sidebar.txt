@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acr:home|Door43 (acr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acr|d43-acr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acr/archive/master.zip|d43-acr.zip]]
+
+**Recent Changes**
+{{changes>ns = acr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acr|Ethnologue data]]
+
